@@ -1,0 +1,1 @@
+export const config = "www.google.com";
